@@ -1,0 +1,13 @@
+---
+title: "Labb 0"
+author: "Adriel Alander"
+date: "9/2/2020"
+output: html_document
+---
+
+# Uppgift 1
+```{r}
+x <- pi + 1
+```
+
+Värdet av $\pi + 1$ är ca `r round(x, 3)`.

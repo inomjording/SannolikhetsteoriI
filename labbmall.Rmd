@@ -1,0 +1,17 @@
+---
+title: "Laboration X"
+author: "Förnamn Efternamn"
+date: "2016--01--14"
+output: 
+  html_document:
+    fig_caption: yes
+---
+
+# Uppgift 1
+Text. Använd underrubriker för delfrågor om du tycker det är motiverat.
+
+# Uppgift 2
+Mer text. Använd underrubriker för delfrågor om du tycker det är motiverat.
+
+# Uppgift 3?
+Ännu mer text. Använd underrubriker för delfrågor om du tycker det är motiverat.
